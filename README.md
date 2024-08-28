@@ -56,6 +56,6 @@ Ce projet est conçu pour être utile à divers acteurs :
    python generateur_rh_senegal.py
    ```
 4. Explorez les résultats, les visualisations, et les solutions proposées dans les fichiers de sortie.
-5. le lien vers le dashboard : [HR | Dashboard By cmtt]([url](https://public.tableau.com/app/profile/cheikh.mouhamed.tidiane.thiam/viz/DashboardRH_17244152086540/HRSummary))
+5. le lien vers le dashboard : [HR | Dashboard By cmtt] https://public.tableau.com/app/profile/cheikh.mouhamed.tidiane.thiam/viz/DashboardRH_17244152086540/HRSummary ([url](https://public.tableau.com/app/profile/cheikh.mouhamed.tidiane.thiam/viz/DashboardRH_17244152086540/HRSummary))
 
 Le fichier `RessourcesHumaines.csv` sera généré dans le même répertoire que le script, prêt à être utilisé pour des analyses plus poussées.
